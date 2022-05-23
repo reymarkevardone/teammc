@@ -1,0 +1,87 @@
+*{
+  margin:0;
+  padding: 0;
+  
+}
+body{
+  background-color: black;
+  
+}
+.all{
+  height: 100%;
+  width: 100%;
+  background-image: url('bluebg.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 10px;
+  border: 3px solid gold;
+}
+.one{
+  width: 100%;
+  height: 100%;
+  background-color:red;
+}
+h1{
+  font: bold;
+  color: pink;
+  padding-top: 40px;
+  padding-left: 90px;
+  font-family: Times New Roman;
+  font-size: 100px;
+}
+
+.img-one{
+  padding-top: 30px;
+  padding-left: 30px;
+  height: 450px;
+  width: 94%;
+  position: bottom;
+  
+}
+.two{
+background-color: transparent;
+}
+.img-two{
+  margin: 50px;
+  height: 30%;
+  width: 90%;
+  position: center;
+}
+.imgo{
+  height: 400px;
+  width: 400px;
+  padding-left: 30%;
+}
+.tree{
+  width: 100%;
+  height: 500px;
+  background-image: url('bg.png');
+  background-repeat-x: no-repeat;
+  background-size: 100%;
+  border: 3px solid blue;
+}
+h2{
+  font: bold;
+  color: gold;
+  padding-top: 40px;
+  font-family: Times New Roman;
+  font-size: 50px;
+  text-align: center;
+}
+.for{
+background-color: white;
+}
+.img-for{
+  margin: 50px;
+  height: 30%;
+  width: 90%;
+  position: center;
+}
+.mon{
+  font: bold;
+  color: black;
+  padding-top: 40px;
+  padding-left: 20px;
+  font-family: Times New Roman;
+  font-size: 100px;
+}
